@@ -1,0 +1,7 @@
+link para o schematic:
+http://schematics.com/project/pov-display-47475/
+
+change log:
+20/01/2017 -    Criacao do schematic.
+		Criacao da parte do circuito responsavel pelo sensor de volta.
+		Criacao da String de LED's enderacaveis.
