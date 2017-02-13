@@ -52,6 +52,6 @@ Para controlar os LED's, que estarão acoplados ao eixo de um motor dc, será ut
 
 - Ana Lucia Cardoso - Email: ana.lc18@gmail.com
 
-- Carlos Augusto Santo Andre Junior - carlos.santoandrea@hotmail.com
+- Carlos Augusto Santo Andre Junior - Email: carlos.santoandrea@hotmail.com
 
 - Felipe José Bento da Silva - Email: felipejosebento@outlook.com
