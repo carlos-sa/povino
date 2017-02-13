@@ -40,7 +40,14 @@ Para controlar os LED's, que estarão acoplados ao eixo de um motor dc, será ut
 
 ## Tarefas 
 
-[] Oi
+ - [x] Projeto CAD da estrutura
+ - [x] Impressão da estrutura em 3D
+ - [] Levantamento do todos materiais
+ - [] Teste da rotação da estrutura
+ - [] Teste dos LED's 
+ - [] Implementação da animação 
+ - [] Teste da animação
+
 
 ## Desenvolvedores
 
