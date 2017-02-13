@@ -32,6 +32,8 @@ O intuito do projeto é a realizar a montagem de um display de persistencia de v
 
 - Chave Liga/Desliga
 
+![alt text](https://github.com/carlos-sa/povino/blob/master/Estrutura%20do%20projeto.jpg)
+
 ## Descrição do Projeto
 
 O projeto propõe a construção de um display de persistencia de visão, através de uma coluna de LED's que ao girar em uma frequencia superior a 24 Hz pode criar a impressão de que existe uma matriz de LED's ao invés de uma só coluna. A matriz de LED's virtual será usada para a reprodução de imagens coloridas.
