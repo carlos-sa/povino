@@ -5,3 +5,7 @@ change log:
 20/01/2017 -    Criacao do schematic.
 		Criacao da parte do circuito responsavel pelo sensor de volta.
 		Criacao da String de LED's enderacaveis.
+		
+14/02/2017 -    Motor adicionado ao schematico.
+		Valor dos resistores arrumados.
+		LED's ligados ao uC
