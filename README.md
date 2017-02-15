@@ -6,9 +6,15 @@ Repositório para o projeto final da diciplina Microcontroladores e aplicações
 
 O intuito do projeto é a realizar a montagem de um display de persistencia de visão com a utilização a de uma estrutura giratória, que será montada através de manufatura aditiva, que contará com uma filheira de led's coloridos endereçaveis. 
 
+## Embasamento Teórico
+
+O projeto se baseia no fenômeno de Persistência Retiniana: Ilusão provocada quando um objeto persiste na retina por uma fração de segundo após sua percepção. Esse efeito é responsável pela interpretação de movimento nos vídeos. A partir dái é possível formar imagens ou vídeos com estruturas estáticas em movimento desde que a alternância de frames aconteça mais rápido do que a percepção da visão humana (Cerda de 27 imagens por segundo). No projeto 8 led's anexados a uma estrutura piscam determinadas cores que junto com o movimento da peça, controlado pelo motor, formam uma animação.
+
+A velocidade em que os led's irão trocar de cores, e a velocidade do motor foram obtidas testanto o projeto até que se pôde perceber a formação da animação.
+
 ### Materiais
 
-- Estrutura em formato de ponte H
+- Estrutura em formato de ponte H*
 
 - Motor DC (12 volts)
 
@@ -34,6 +40,8 @@ O intuito do projeto é a realizar a montagem de um display de persistencia de v
 
 ![alt text](https://github.com/carlos-sa/povino/blob/master/Estrutura%20do%20projeto.jpg)
 
+*A estrutura em formato de ponte H foi modelada no software 123D e impressa em uma impressora 3D.
+
 ## Descrição do Projeto
 
 O projeto propõe a construção de um display de persistencia de visão, através de uma coluna de LED's que ao girar em uma frequencia superior a 24 Hz pode criar a impressão de que existe uma matriz de LED's ao invés de uma só coluna. A matriz de LED's virtual será usada para a reprodução de imagens coloridas.
@@ -47,7 +55,7 @@ Para controlar os LED's, que estarão acoplados ao eixo de um motor dc, será ut
  - [x] Levantamento do todos materiais
  - [x] Teste da rotação da estrutura
  - [x] Teste dos LED's 
- - [ ] Implementação da animação 
+ - [x] Implementação do código/animação 
  - [ ] Teste da animação
 
 ## Desenvolvedores
