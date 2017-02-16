@@ -52,9 +52,9 @@ O projeto propõe a construção de um display de persistencia de visão, atrav�
 
 Para controlar os LED's, que estarão acoplados ao eixo de um motor dc, será utilizado um arduino nano. Os LED's são to tipo RGB endereçaveis e também temos um sensor infravermelho que será utilizado como sensor de volta.
 
-<a href="https://youtu.be/xx5EOAy6Ocg
-" target="_blank"><img src="https://youtu.be/xx5EOAy6Ocg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://youtu.be/xx5EOAy6Ocg" 
+target="_blank"><img src="https://github.com/carlos-sa/povino/blob/master/images/yt_povino.png" 
+width="482" height="272"/></a>
 
 ## Tarefas 
 
