@@ -65,6 +65,8 @@ width="482" height="272"/></a>
  - [x] Teste dos LED's 
  - [x] Implementação do código/animação 
  - [x] Teste da animação
+ 
+ ![alt text](https://github.com/carlos-sa/povino/blob/master/images/pac-man.jpeg)
 
 ## Desenvolvedores
 
